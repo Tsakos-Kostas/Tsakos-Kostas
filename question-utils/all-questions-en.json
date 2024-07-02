@@ -1,0 +1,18 @@
+[
+    {
+        "id": 0,
+        "question": "Are you a Legal resident of Greece?",
+        "options": ["Yes", "Νο"]
+    },
+    {
+        "id": 1,
+        "question": " Do you have Taxisnet codes?",
+        "options": ["Yes", "No"]
+    },
+    {
+        "id": 2,
+        "question": "Are you willing to provide user consent to the system to access personal data of the register of natural persons?",
+        "options": ["Yes", "No"]
+        
+    }
+]
